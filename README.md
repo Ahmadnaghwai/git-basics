@@ -30,3 +30,6 @@
 
 
  sky diving
+
+ 
+ playing football 
