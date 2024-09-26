@@ -18,3 +18,6 @@
 
 
  ski
+
+
+ jogging
