@@ -12,3 +12,6 @@
 
 
  hobbies
+
+
+ painting
